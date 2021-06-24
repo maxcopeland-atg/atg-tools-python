@@ -1,6 +1,5 @@
 # ATGDE Python Development Standard v0.1
-
-TODO: Replace ATGDE Leadership with Python Steering Committee?
+author: Max Copeland (max.copeland@atginfo.com)
 
 **Python** is a general-purpose programming language and has become the de-facto standard in Data Engineering tech stacks, being a required language profiency in over two-thirds of data engineering practices worldwide. Python's popularity lies in its simple syntax, readability, abundance of third-party libraries, and breadth of user base.
 
